@@ -1,4 +1,4 @@
-# Project Title
+# Node JS Rest API with Express and Mongoose
 
 This project implements the Node JS Express library for build REST APIs and the Mongoose library for MongoDB access.
 
